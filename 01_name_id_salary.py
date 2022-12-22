@@ -1,0 +1,6 @@
+# id=int(input("your Id:"))
+# name=input("Enter your Name:")
+# salary=float(input("Enter your Salary:"))
+# print("Your id is: {} , Name is: {} and Salary is: {}".format(id,name,salary))
+# print("Your Name is: {1} , id is: {0} and Salary is: {2}".format(id,name,salary))
+# print(f"Your Name is: {name} , ID is: {id} and Salary is: {salary}")
